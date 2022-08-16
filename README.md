@@ -1,6 +1,6 @@
-# live_to_die
+# live-to-die
 
-## git pages -> https://streanger.github.io/live_to_die/
+## git pages -> https://streanger.github.io/live-to-die/
 
 Game for challenge, not finished on time :(
 
